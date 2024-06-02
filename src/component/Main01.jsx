@@ -12,7 +12,7 @@ export default function Main01() {
   }
 
   return (
-    <header className='container mx-auto'>
+    <header className='container mx-auto uppercase'>
       <div className='mt-10 flex justify-between px-10'>
         <div>
           <img src={logo} alt="" />
