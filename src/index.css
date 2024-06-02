@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.softred {
+  background-color: #F25D52;
+}
+.darkblue {
+  background-color: #00011A;
+}
+.darkbluetext{
+  color: #00011A;
+}
+.Specialtext {
+  color: #E5AC61;
+}
