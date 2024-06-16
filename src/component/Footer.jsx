@@ -15,10 +15,10 @@ export default function Footer() {
                             <h2 class="mb-6 text-sm font-semibold uppercase Specialtext">Resources</h2>
                             <ul class="text-white font-medium">
                                 <li class="mb-4">
-                                    <a href="" class="hover:underline">Flowbite</a>
+                                    <a href="" class="hover:underline">Contact Us</a>
                                 </li>
                                 <li>
-                                    <a href="" class="hover:underline">Tailwind CSS</a>
+                                    <a href="" class="hover:underline">Blibiografy</a>
                                 </li>
                             </ul>
                         </div>
