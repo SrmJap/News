@@ -3,8 +3,10 @@ News Portal Template
 
 
 Made using: 
--React 
--Tailwinds Css  
+-React
+
+-Tailwinds Css
+
 -Vite.
 
 
