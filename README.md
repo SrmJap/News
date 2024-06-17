@@ -1,5 +1,11 @@
 News Portal Template 
-Using React tailwinds css and vite.
+
+
+
+Made using: 
+-React 
+-Tailwinds Css  
+-Vite.
 
 
 ![MacBook Pro-1717329286486](https://github.com/SrmJap/News/assets/111044979/825ab431-b7be-40e9-9f39-2061c4f81877)
